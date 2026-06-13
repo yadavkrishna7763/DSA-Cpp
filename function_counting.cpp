@@ -29,7 +29,7 @@ int factorial(int n)
 int main()
 {
     int n;
-    cout <<"Enter the number which factoral yoy want="<<endl;
+    cout <<"Enter the number which factoral you want="<<endl;
     cin>>n;
     cout<<"factorail of "<<n<<" is "<<factorial(n)<<endl;
     return 0;
