@@ -1,0 +1,5 @@
+{
+  "code-runner.executorMap": {
+    "cpp": "mkdir -p \"$dir/.build\" && g++ \"$fileName\" -o \"$dir/.build/$fileNameWithoutExt\" && \"$dir/.build/$fileNameWithoutExt\""
+  }
+}
