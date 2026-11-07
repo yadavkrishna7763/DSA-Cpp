@@ -1,4 +1,5 @@
 {
+  "editor.inlineSuggest.enabled": false,
   "code-runner.executorMap": {
     "cpp": "mkdir -p \"$dir/.build\" && g++ \"$dir/$fileName\" -o \"$dir/.build/$fileNameWithoutExt\" && \"$dir/.build/$fileNameWithoutExt\""
   }

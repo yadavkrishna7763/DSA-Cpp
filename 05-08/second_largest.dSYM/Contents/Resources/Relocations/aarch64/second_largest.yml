@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/krishna/Documents/DSA-Cpp/05-08/second_largest'
+relocations:     []
+...
